@@ -1,0 +1,13 @@
+Validation:
+Average Dice Coefficient: 0.5574
+Average Mean IoU: 0.4370
+Average Mean Pixel Accuracy: 0.8586
+
+Test:
+Average Dice Coefficient: 0.5641
+Average Mean IoU: 0.4460
+Average Mean Pixel Accuracy: 0.8618
+Train:
+Average Dice Coefficient: 0.6057
+Average Mean IoU: 0.4883
+Average Mean Pixel Accuracy: 0.8825
